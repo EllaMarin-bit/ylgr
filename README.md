@@ -1,2 +1,2 @@
 # ylgr
-Mapping the stellar stream YLGR
+Extracting the stellar stream YLGR using Gaia DR3. 
